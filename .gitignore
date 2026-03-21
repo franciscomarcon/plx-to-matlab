@@ -1,0 +1,8 @@
+# .gitignore
+*.pyc
+__pycache__/
+*.mat
+*.plx
+.env
+*.log
+.DS_Store
